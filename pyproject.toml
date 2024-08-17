@@ -1,0 +1,6 @@
+[project]
+name = "devicecheck_repro"
+version = "0.0.1"
+dependencies = [
+    "devicecheck",
+]
